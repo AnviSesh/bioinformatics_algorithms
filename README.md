@@ -1,61 +1,56 @@
-<BS>Bioinformatics Algorithms
-Overview
+# Bioinformatics Algorithms
 
-This repository contains my learning and exploratory work in bioinformatics algorithms, developed as part of my coursework and self-study. The focus is on understanding how biological concepts can be translated into computational and data-driven solutions, using Python and R.
+## Overview
+This repository contains my learning and exploratory work in bioinformatics algorithms, developed as part of my coursework and independent practice. The focus is on understanding how biological concepts can be translated into computational and data-driven approaches using Python and R.
 
-Rather than polished, production-ready tools, this repository represents an active learning space where I experiment with algorithms, data structures, and analytical approaches commonly used in bioinformatics.
+Rather than polished or production-ready tools, this repository serves as a working space where I experiment with algorithms, data structures, and analytical methods commonly encountered in bioinformatics.
 
-<BS>Motivation
+---
 
-Bioinformatics sits at the intersection of biology, data science, and computer science. Modern biological questions—such as sequence comparison, genome analysis, and evolutionary relationships—require computational thinking and statistical reasoning.
+## Motivation
+Bioinformatics is an interdisciplinary field that brings together biology, data science, and computer science. Many modern biological questions—such as sequence comparison, genome analysis, and evolutionary studies—require algorithmic thinking and statistical analysis in addition to biological understanding.
 
-This repository reflects my effort to:
+Through this repository, I aim to:
+- Build intuition around core bioinformatics algorithms
+- Strengthen programming skills in Python and R
+- Connect biological theory with computational implementation
+- Explore how data science techniques apply to biological data
 
-Build intuition around core bioinformatics algorithms
+---
 
-Strengthen programming skills in Python and R
+## Contents
+This repository may include, but is not limited to:
 
-Connect biological theory with algorithmic implementation
+- Sequence-based algorithms (such as edit distance and alignment methods)
+- Scripts for working with common biological data formats (e.g., FASTA)
+- Algorithmic approaches applied to genomics and molecular biology problems
+- Small experiments and exercises using:
+  - Python (Biopython, NumPy, exploratory analytical workflows)
+  - R (statistical analysis and visualization of biological data)
 
-Explore how data science methods apply to biological data
+The emphasis is on learning and clarity rather than optimization or completeness.
 
+---
 
-What this repository includes
+## Interdisciplinary focus
+The work in this repository integrates concepts from multiple domains:
 
-The repository may include (but is not limited to):
+- Biology: DNA and RNA sequences, mutations, evolutionary variation  
+- Computer science: algorithms, dynamic programming, basic data structures  
+- Data science: data handling, exploratory analysis, and basic statistics  
 
-Sequence-based algorithms 
+The goal is to become comfortable working across these disciplines rather than treating them separately.
 
-Working with biological data formats (FASTA, sequence records)
+---
 
-Algorithmic thinking applied to genomics and molecular biology
+## Status
+This repository is a work in progress and will continue to evolve as I:
+- Learn additional bioinformatics methods
+- Improve my programming and analytical skills
+- Explore more advanced computational techniques
 
-Small scripts and experiments using:
+---
 
-Python (Biopython, NumPy, basic ML concepts)
-
-R (statistical analysis and visualization for biological data)
-
-Each script is primarily written for learning and clarity, not optimization.
-
-Interdisciplinary nature
-
-This work combines:
-
-Biological concepts: DNA/RNA sequences, mutations, evolutionary variation
-
-Computer science: algorithms, dynamic programming, data structures
-
-Data science: data handling, basic statistics, exploratory analysis
-
-The goal is to develop comfort working across disciplines rather than treating them in isolation.
-
-
-Status 
-This repository is completly experimental as of now, inclined towards learning and depicts my intuition about the logic learnt in the class.
-
-
-Disclaimer
-
-This repository is intended for learning and experimentation.
-Methods may be simplified, exploratory, or incomplete, and should not be considered validated bioinformatics pipelines.
+## Disclaimer
+This repository is intended for learning and experimentation.  
+Methods and implementations may be simplified, exploratory, or incomplete and should not be considered validated or production-ready bioinformatics pipelines.
